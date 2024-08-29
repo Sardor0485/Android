@@ -1,1 +1,1 @@
-hechnarsa yoq
+hechnarsa yoq emas
