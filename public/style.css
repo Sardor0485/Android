@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik+Scribble&family=SUSE:wght@100..800&family=Yellowtail&display=swap');
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+background-color:goldenrod;
+
+}
+
+.dish {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+background-color:gold;
+text-align:center;
+
+font-family: "Rubik Scribble", system-ui;
+  font-weight: 400;
+  font-style: normal;
+text-shadow:5px 5px 1px #777;
+
+}
+img{
+width:250px;
+heigth:auto;
+border-radius:5px;
+margin:5px;
+
+
+}
+iframe{
+border-radius:7px;
+position:relativa;
+margin:5px;
+}
+nav{
+ position:relative;
+ display:flex;
+ justify-content:space-around;
+ aling-items:center;
+}
+ul,li{
+display:flex;
+margin:10px;
+}
+main{
+position:relative;
+display:grid;
+justify-content:center;
+align-items:center;
+margin:5px;
+padding:5px;
+}
+h2{
+
+text-align:center;
+}
+.product{
+position:relative;
+display:grid;
+justify-content:center;
+align-items:center;
+margin:5px;
+padding:5px;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моя домашняя страница</title>
+
+
+
+    <link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+
+
+
+
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать!</h1>
+        <nav>
+            <ul>
+                <li><a href="/movie"><span class="material-symbols-outlined">
+live_tv
+</span> </a></li>
+                <li><a href="/about"><span class="material-symbols-outlined">
+settings_accessibility
+</span></a></li>
+                <li><a href="/sale"><span class="material-symbols-outlined">
+shopping_cart_checkout
+</span></a></li>
+                <li><a href="/food"><span class="material-symbols-outlined">
+soup_kitchen
+</span> </a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <p>Это главная страница моего сайта. Здесь будет размещена основная информация.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Мой сайт</p>
+    </footer>
+</body>
+</html>
